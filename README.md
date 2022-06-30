@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartiksureja&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="kartiksureja" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartiksureja&bg_color=151515&text_color=daf7dc" alt="kartiksureja" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartiksureja&bg_color=ff2edg&text_color=daf7dc" alt="kartiksureja" /></p>
